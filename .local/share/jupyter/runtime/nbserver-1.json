@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/adaley01-2020-hacky-intro-python-5izh7qo3/",
+  "base_url": "/binder/jupyter/user/adaley01-2020-hacky-intro-python-ca58u3rb/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "Mjwx4MiqS3igoZrDM7pQ3w",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/adaley01-2020-hacky-intro-python-5izh7qo3/"
+  "token": "zNp8gcdxQO6CEFIKTGZPgw",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/adaley01-2020-hacky-intro-python-ca58u3rb/"
 }
